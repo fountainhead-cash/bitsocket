@@ -5,6 +5,9 @@
   "main": "index.js",
   "author": "",
   "license": "MIT",
+  "scripts": {
+      "start": "node index"
+  },
   "dependencies": {
     "dotenv": "^6.0.0",
     "fountainhead-bitsocketd": "0.1.1"
