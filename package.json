@@ -1,0 +1,11 @@
+{
+  "name": "fountainhead-bitsocket",
+  "version": "0.0.1",
+  "description": "bitsocket",
+  "main": "index.js",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "fountainhead-bitsocketd": "0.1.1"
+  }
+}
