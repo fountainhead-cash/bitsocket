@@ -6,6 +6,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "dotenv": "^6.0.0",
     "fountainhead-bitsocketd": "0.1.1"
   }
 }
