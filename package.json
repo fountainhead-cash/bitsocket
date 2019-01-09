@@ -10,6 +10,6 @@
   },
   "dependencies": {
     "dotenv": "^6.0.0",
-    "fountainhead-bitsocketd": "0.1.1"
+    "fountainhead-bitsocketd": "0.1.3"
   }
 }
