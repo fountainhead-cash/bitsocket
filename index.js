@@ -7,6 +7,7 @@ bitsocketd.init({
     },
     socket: {
         port: process.env.bitsocket_port ? process.env.bitsocket_port : 3000
-    }
+    },
+    heartbeat: 10
 });
 
